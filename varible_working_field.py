@@ -11,9 +11,15 @@ def f(arg=i):
  print arg
 
 i = 6
+i
 f()
+i
 
-#this code segment above will print 5
+#this code segment above will print:
+6
+5
+6
+
 
 """
 
